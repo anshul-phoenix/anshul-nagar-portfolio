@@ -12,3 +12,5 @@ dist-ssr
 
 # original resume only kept locally; canonical copy lives at public/Resume.pdf
 /Resume (1).pdf
+
+.vercel
